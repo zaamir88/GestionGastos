@@ -1,21 +1,26 @@
-<<<<<<< HEAD
-# gestion_gastos
+# 💰 Gestión de Gastos - App Flutter
 
-A new Flutter project.
+Una aplicación móvil desarrollada en Flutter que permite registrar, visualizar y analizar tus gastos personales de forma sencilla.
 
-## Getting Started
+## 🚀 Funcionalidades
 
-This project is a starting point for a Flutter application.
+- Registro de gastos
+- Edición y eliminación de gastos
+- Visualización de gastos en gráficos
+- Almacenamiento local con SQLite
+- Interfaz amigable y responsive
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠 Tecnologías
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter
+- Dart
+- SQLite
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# PROYECTO-DAM-
-Este repositorio esta creado para gestionar el proyecto del grupo 18
->>>>>>> ffd817971a4beab4bab5e9e8a3c79ffe151efe98
+## 📦 Instalación
+
+```bash
+git clone https://github.com/zaamir88/GestionGastos.git
+cd GestionGastos
+flutter pub get
+flutter run
+
